@@ -1,0 +1,17 @@
+{
+	"WinboxSeries":{
+		"IdentificationCode" : [33,7,24,32],  
+		"Group" : [0,49152,98304,147456],	
+		"ControllerAddr" : [354,49506,98658,147810],	
+		"Troub":[522,49674,98826,147978],		
+		"DataSize" : 262144	
+	},
+	"Tseries":{
+		"IdentificationCode" : [1,6,25,32],
+		"Group" : [0,32768,65536,98304],
+		"Controller" : [354,33122,65890,98658],
+		"Troub" : [530,33298,66066,98834],
+		"Combination" : [640,33408,66176,98944],
+		"DataSize" : 131072
+	}
+}

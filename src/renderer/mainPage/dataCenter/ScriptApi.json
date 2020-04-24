@@ -1,0 +1,13 @@
+{
+	 "baseUrl" :"http://www.coovbbs.com:18096/kuwei/v1",
+	 "databaseUrl" :"http://www.coovbbs.com:18096/kuwei",
+
+	 "scriptshare":{
+		 "getAllScriptshare":"/customer/scriptshare/getAllScriptshare?name",
+		 "frdown":"http://www.coovbbs.com:18096/kuwei/firmwareshare_files/405958a9-86ce-4743-939f-478a9aec41361555401313211",
+		 "deown":"http://www.coovbbs.com:18096/kuwei/scriptshare_files/798f1a72-e72a-4913-9ff2-eecf0f2b4d9e1554257527390"
+	 },
+	 "firmwareshare":{
+	  	"getAllFirmwareshare":"/customer/firmwareshare/getAllFirmwareshare?name"
+	 }
+}
